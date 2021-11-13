@@ -8,7 +8,7 @@ This is a smart contract created using the Solidity programming anuage that auto
 
 ## Technologies
 
-* ### **Solidity** - An object-oriented language for implementing smart contracts
+* ### **Solidity** - A  object-oriented language for implementing smart contracts
 * ### **Remix** - A testing environment for ethereum contract deployment
 
 
@@ -30,7 +30,7 @@ This is a smart contract created using the Solidity programming anuage that auto
 NOTE: Initial balance in screenshots did not start at 0
 
 ### Adding dummy accounts1 and account2
-![Adding dummy accounts1 and 2](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(208).png "Adding dummy accounts1 and account2")
+![Adding dummy accounts1 and 2](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(208).png)
 
 ### Depositing 1 ether (in wei)
 ![Depositing 1 ether (in wei)](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(209).png)
@@ -46,6 +46,7 @@ NOTE: Initial balance in screenshots did not start at 0
 
 ### Withdrawing 10 ether from account2
 ![Withdrawing 10 ether from account2](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(213).png)
+
 
 ---
 
