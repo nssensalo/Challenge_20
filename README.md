@@ -28,7 +28,7 @@ This is a smart contract created using the Solidity programming anuage that auto
 
 NOTE: Initial balance in screenshots did not start at 0
 
-![Adding dummy accounts1 and 2](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(208).png)
+![Adding dummy accounts1 and 2](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(208).png "Adding dummy accounts1 and account2")
 
 ![Depositing 1 ether (in wei)](https://github.com/nssensalo/Challenge_20/blob/main/images/Screenshot%20(209).png)
 
