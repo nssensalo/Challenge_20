@@ -8,7 +8,7 @@ This is a smart contract created using the Solidity programming anuage that auto
 
 ## Technologies
 
-* ### **Solidity** - A  object-oriented language for implementing smart contracts
+* ### **Solidity** - An object-oriented language for implementing smart contracts
 * ### **Remix** - A testing environment for ethereum contract deployment
 
 
