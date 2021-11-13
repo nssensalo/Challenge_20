@@ -1,4 +1,4 @@
-# PyChain Ledger
+# Joint Savings
 
 
 This is a smart contract created using the Solidity programming anuage that automates transactions between a joint account of two addresses ( Ethereum accounts ). It's functionality includes depositing and withdrawing ether ( in wei ), checking balances, and noting the last withdrawal or deposit history. The contracts is deployed in the Remix IDE testing environment. 
@@ -28,11 +28,17 @@ This is a smart contract created using the Solidity programming anuage that auto
 
 
 
-![SampleCode](https://github.com/nssensalo/Challenge_18/blob/main/markdown_images/Screenshot%20(182).png)
+![SampleCode](./images(208).png)
 
-![SampleCode](https://github.com/nssensalo/Challenge_18/blob/main/markdown_images/Screenshot%20(183).png)  
+![SampleCode](./images(209).png
 
-![SampleCode](https://github.com/nssensalo/Challenge_18/blob/main/markdown_images/Screenshot%20(184).png)
+![SampleCode](./images(210).png)
+
+![SampleCode](./images(211).png)
+
+![SampleCode](./images(212).png)  
+
+![SampleCode](./images(213).png)
 
 ---
 
